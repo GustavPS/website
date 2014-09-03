@@ -1,0 +1,83 @@
+body {
+    background-color: #CBDBC3;
+}
+.menu {
+    position: relative;
+    top: 5px;
+    margin:0 auto;
+    width: 800px;
+    height: 50px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #AFD18F
+}
+
+h2 {
+    position: relative;
+    left: 150px;
+    top: 9px;
+    color: white;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-size: 33px;
+}
+
+a {
+    text-decoration: none;
+    width: 0px;
+}
+#Products {
+    position: relative;
+    left: 152px;
+    top: -61px;
+    width: 0px;
+}
+
+#Home {
+    width: 0px;
+}
+
+#info {
+    position: relative;
+    top: 5px;
+    width: 800px;
+    height: 200px;
+    background-color: #9CC278;
+}
+
+#news {
+    position: relative;
+    left: -160px;
+}
+
+#newsbox1 {
+    position: relative;
+    left: -280px;
+    top: -25px;
+    width: 200px;
+    height: 150px;
+    background-color: #78AB93;
+}
+
+.newspic1 {
+    position: relative;
+    left: -50px;
+    width: 100px;
+}
+
+.newstext {
+    font-size: 9px;
+    line-height: 11px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+.newsdiv1 {
+    position: relative;
+    top: -83px;
+    left: 50px;
+    width: 100px;
+}
+
+.newsunder1 {
+    position: relative;
+    top: -85px;
+}
